@@ -1,0 +1,11 @@
+events_news:
+
+  path: /events_news
+
+  defaults:
+
+    _controller: Drupal\hello_world\Controller\EventsNewsController::home
+
+  requirements:
+
+    _permission: 'access content'

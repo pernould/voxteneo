@@ -1,0 +1,11 @@
+name: Pseudo Title
+type: module
+description: Creates a pseudo title field used to re-arrange the placement of the node title.
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - extra_field_plus:extra_field_plus
+
+# Information added by Drupal.org packaging script on 2022-08-03
+version: '8.x-2.1'
+project: 'pseudo_title'
+datestamp: 1659536729
